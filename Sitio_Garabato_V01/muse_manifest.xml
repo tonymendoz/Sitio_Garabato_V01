@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1510116498488">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1535123723185">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="475224812" ref="index"/>
-    <file name="nomq_index.css" crc="4282531819" ref="index"/>
+    <file name="index.css" crc="3774222247" ref="index"/>
+    <file name="nomq_index.css" crc="4004505590" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,9 +16,8 @@
   <folder name="images">
     <file name="logo-garabato-ok-2017.png" crc="3865204105" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u115-4.png" crc="4134068967" ref="index"/>
-    <file name="logo-garabato-ok-2017-crop-u119.png" crc="4024999236" ref="index"/>
-    <file name="u115-42.png" crc="4282479398" ref="index"/>
+    <file name="u115-4.png" crc="4082587215" ref="index"/>
+    <file name="u115-42.png" crc="4171843897" ref="index"/>
   </folder>
-  <file name="index.html" crc="4269391891" seo="true" mt="1510116468790" redirect="true"/>
+  <file name="index.html" crc="4134106865" seo="true" mt="1535123407789" redirect="true"/>
 </manifest>
