@@ -1,10 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1543682182856">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1543684609975">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="75701002" ref="index"/>
     <file name="nomq_index.css" crc="452813362" ref="index"/>
-    <file name="launching-page.css" crc="4098423851" ref="launching-page"/>
+    <file name="launching-page.css" crc="3865624099" ref="launching-page"/>
     <file name="soy-licenciante.css" crc="270025225" ref="soy-licenciante"/>
+    <file name="nomq_launching-page.css" crc="279183451" ref="launching-page"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:launching-page:soy-licenciante"/>
@@ -12,7 +13,7 @@
     <file name="whatinput.js" crc="86476730" ref="index:launching-page:soy-licenciante"/>
     <file name="museconfig.js" crc="168988563" ref="index:launching-page:soy-licenciante"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:launching-page:soy-licenciante"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:launching-page"/>
     <file name="require.js" crc="244322403" ref="index:launching-page:soy-licenciante"/>
   </folder>
   <folder name="images">
@@ -26,7 +27,7 @@
     <file name="question.png" crc="3867901418" seo="true" ref="launching-page:soy-licenciante"/>
     <file name="u1687-4.png" crc="271605661" ref="launching-page"/>
     <file name="u1618-4.png" crc="465432201" ref="launching-page"/>
-    <file name="info.png" crc="3277675" seo="true" ref="launching-page"/>
+    <file name="info.png" crc="4132420801" seo="true" ref="launching-page"/>
     <file name="u1720-4.png" crc="3902435541" ref="launching-page"/>
     <file name="u1723-6.png" crc="3803289666" ref="launching-page"/>
     <file name="cash.png" crc="119659083" seo="true" ref="launching-page"/>
@@ -36,7 +37,7 @@
     <file name="u1739-4.png" crc="174416583" ref="launching-page"/>
     <file name="u1745-4.png" crc="326088662" ref="launching-page"/>
     <file name="imagen pegada 1880x1253-crop-u1638.jpg" crc="4146333653" ref="launching-page"/>
-    <file name="unete.png" crc="249634834" seo="true" ref="launching-page"/>
+    <file name="unete.png" crc="4242538258" seo="true" ref="launching-page"/>
     <file name="u1879-4.png" crc="3781825571" ref="launching-page"/>
     <file name="u1882-4.png" crc="401387285" ref="launching-page"/>
     <file name="u1945.png" crc="3799568759" ref="launching-page"/>
@@ -51,8 +52,25 @@
     <file name="u2113-19.png" crc="3897849469" ref="soy-licenciante"/>
     <file name="u2132-4.png" crc="3765466331" ref="soy-licenciante"/>
     <file name="u2135-28.png" crc="435928405" ref="soy-licenciante"/>
+    <file name="u1615-42.png" crc="3844336310" ref="launching-page"/>
+    <file name="u1754-42.png" crc="4055932309" ref="launching-page"/>
+    <file name="u1687-42.png" crc="4107027799" ref="launching-page"/>
+    <file name="u1618-42.png" crc="333996210" ref="launching-page"/>
+    <file name="u1720-42.png" crc="3791612178" ref="launching-page"/>
+    <file name="u1723-62.png" crc="111027682" ref="launching-page"/>
+    <file name="u1777-42.png" crc="3884583675" ref="launching-page"/>
+    <file name="u1780-42.png" crc="416194057" ref="launching-page"/>
+    <file name="u1739-42.png" crc="4111182993" ref="launching-page"/>
+    <file name="u1745-42.png" crc="275582785" ref="launching-page"/>
+    <file name="imagen pegada 1880x1253-crop-u16382.jpg" crc="2835474" ref="launching-page"/>
+    <file name="u1879-42.png" crc="4232454846" ref="launching-page"/>
+    <file name="u1882-42.png" crc="3899483435" ref="launching-page"/>
+    <file name="u19452.png" crc="388859576" ref="launching-page"/>
+    <file name="u1945-r2.png" crc="388859576" ref="launching-page"/>
+    <file name="u19542.png" crc="3764332090" ref="launching-page"/>
+    <file name="u1954-r2.png" crc="3764332090" ref="launching-page"/>
   </folder>
-  <file name="index.html" crc="385506801" seo="true" mt="1543682177399" redirect="true"/>
-  <file name="launching-page.html" crc="4003499379" seo="true" mt="1543647378606" redirect="true"/>
+  <file name="index.html" crc="385506801" seo="true" mt="1543684603025" redirect="true"/>
+  <file name="launching-page.html" crc="119513353" seo="true" mt="1543684491908" redirect="true"/>
   <file name="soy-licenciante.html" crc="155588169" seo="true" mt="1543647332898" redirect="true"/>
 </manifest>
