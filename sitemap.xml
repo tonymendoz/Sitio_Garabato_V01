@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.garabatomx.com/index.html</loc>
-    <lastmod>2018-08-24</lastmod>
+    <lastmod>2018-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.garabatomx.com/images/logo_home.png</loc>
-    <lastmod>2018-08-24</lastmod>
+    <loc>http://www.garabatomx.com/images/garabato.png</loc>
+    <lastmod>2018-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.garabatomx.com/images/clh_logo_home.png</loc>
+    <lastmod>2018-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.garabatomx.com/images/garabato252x154.png</loc>
+    <lastmod>2018-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
