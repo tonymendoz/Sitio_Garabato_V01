@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1543685898854">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1544076509637">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="75701002" ref="index"/>
     <file name="nomq_index.css" crc="452813362" ref="index"/>
-    <file name="launching-page.css" crc="166184656" ref="launching-page"/>
+    <file name="launching-page.css" crc="448509528" ref="launching-page"/>
     <file name="soy-licenciante.css" crc="270025225" ref="soy-licenciante"/>
-    <file name="nomq_launching-page.css" crc="482227289" ref="launching-page"/>
+    <file name="nomq_launching-page.css" crc="226371507" ref="launching-page"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:launching-page:soy-licenciante"/>
@@ -22,24 +22,22 @@
     <file name="garabato.png" crc="3949830256" seo="true" ref="index"/>
     <file name="garabato252x154.png" crc="70226701" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:launching-page"/>
-    <file name="u1615-4.png" crc="512512537" ref="launching-page"/>
-    <file name="u1754-4.png" crc="459649611" ref="launching-page"/>
+    <file name="u1754-4.png" crc="4266471506" ref="launching-page"/>
     <file name="question.png" crc="4043606037" seo="true" ref="launching-page:soy-licenciante"/>
-    <file name="u1687-4.png" crc="453387481" ref="launching-page"/>
-    <file name="u1618-4.png" crc="522157559" ref="launching-page"/>
-    <file name="info.png" crc="56529286" seo="true" ref="launching-page"/>
-    <file name="u1720-4.png" crc="3980478563" ref="launching-page"/>
-    <file name="u1723-6.png" crc="216419426" ref="launching-page"/>
-    <file name="cash.png" crc="210010431" seo="true" ref="launching-page"/>
-    <file name="u1777-4.png" crc="3923787500" ref="launching-page"/>
-    <file name="u1780-4.png" crc="230506757" ref="launching-page"/>
+    <file name="u1687-4.png" crc="191438850" ref="launching-page"/>
+    <file name="u1618-4.png" crc="4224645414" ref="launching-page"/>
+    <file name="info.png" crc="4122870496" seo="true" ref="launching-page"/>
+    <file name="u1720-4.png" crc="201609432" ref="launching-page"/>
+    <file name="u1723-6.png" crc="208679467" ref="launching-page"/>
+    <file name="cash.png" crc="4046791283" seo="true" ref="launching-page"/>
+    <file name="u1777-4.png" crc="3988871229" ref="launching-page"/>
     <file name="many.png" crc="191234843" seo="true" ref="launching-page"/>
-    <file name="u1739-4.png" crc="3877961888" ref="launching-page"/>
-    <file name="u1745-4.png" crc="3936909419" ref="launching-page"/>
+    <file name="u1739-4.png" crc="197091100" ref="launching-page"/>
+    <file name="u1745-4.png" crc="3855678808" ref="launching-page"/>
     <file name="imagen pegada 1880x1253-crop-u1638.jpg" crc="4146333653" ref="launching-page"/>
     <file name="unete.png" crc="3771083793" seo="true" ref="launching-page"/>
-    <file name="u1879-4.png" crc="4107130357" ref="launching-page"/>
-    <file name="u1882-4.png" crc="4166316988" ref="launching-page"/>
+    <file name="u1879-4.png" crc="4237857825" ref="launching-page"/>
+    <file name="u1882-4.png" crc="3887497579" ref="launching-page"/>
     <file name="u1945.png" crc="3799568759" ref="launching-page"/>
     <file name="u1945-r.png" crc="3799568759" ref="launching-page"/>
     <file name="u1954.png" crc="172406072" ref="launching-page"/>
@@ -52,31 +50,51 @@
     <file name="u2113-19.png" crc="3897849469" ref="soy-licenciante"/>
     <file name="u2132-4.png" crc="3765466331" ref="soy-licenciante"/>
     <file name="u2135-28.png" crc="435928405" ref="soy-licenciante"/>
-    <file name="u1615-42.png" crc="3844336310" ref="launching-page"/>
-    <file name="u1754-42.png" crc="4055932309" ref="launching-page"/>
-    <file name="u1687-42.png" crc="443095699" ref="launching-page"/>
-    <file name="u1618-42.png" crc="3878421439" ref="launching-page"/>
-    <file name="u1720-42.png" crc="224290743" ref="launching-page"/>
-    <file name="u1723-62.png" crc="3894111599" ref="launching-page"/>
-    <file name="u1777-42.png" crc="255501062" ref="launching-page"/>
-    <file name="u1780-42.png" crc="493583159" ref="launching-page"/>
-    <file name="u1739-42.png" crc="179008974" ref="launching-page"/>
-    <file name="u1745-42.png" crc="4051362640" ref="launching-page"/>
-    <file name="imagen pegada 1880x1253-crop-u16382.jpg" crc="3819082938" ref="launching-page"/>
-    <file name="u1879-42.png" crc="444390283" ref="launching-page"/>
-    <file name="u1882-42.png" crc="4006665109" ref="launching-page"/>
-    <file name="u19452.png" crc="388859576" ref="launching-page"/>
-    <file name="u1945-r2.png" crc="388859576" ref="launching-page"/>
-    <file name="u19542.png" crc="3764332090" ref="launching-page"/>
-    <file name="u1954-r2.png" crc="3764332090" ref="launching-page"/>
-    <file name="clh_logo_home-crop-u1608.png" crc="4148680487" ref="launching-page"/>
-    <file name="question-crop-u1693.png" crc="4027968962" ref="launching-page"/>
-    <file name="info-crop-u1707.png" crc="529784046" ref="launching-page"/>
-    <file name="cash-crop-u1767.png" crc="4286168403" ref="launching-page"/>
-    <file name="many-crop-u1729.png" crc="509643331" ref="launching-page"/>
-    <file name="unete-crop-u1869.png" crc="3855836539" ref="launching-page"/>
+    <file name="u1615-6.png" crc="4240314465" ref="launching-page"/>
+    <file name="u1780-6.png" crc="4190389081" ref="launching-page"/>
+    <file name="u3020-6.png" crc="132175434" ref="launching-page"/>
+    <file name="clh_logo_home-crop-u3041.png" crc="4070005161" ref="launching-page"/>
+    <file name="u3021-4.png" crc="3779381938" ref="launching-page"/>
+    <file name="que_es.png" crc="282205459" seo="true" ref="launching-page"/>
+    <file name="u3024-4.png" crc="4171284448" ref="launching-page"/>
+    <file name="por_que.png" crc="406104980" seo="true" ref="launching-page"/>
+    <file name="u3029-6.png" crc="474745759" ref="launching-page"/>
+    <file name="decenas.png" crc="436205688" seo="true" ref="launching-page"/>
+    <file name="u3036-4.png" crc="3814012271" ref="launching-page"/>
+    <file name="planes.png" crc="465497318" seo="true" ref="launching-page"/>
+    <file name="u3044-6.png" crc="11996288" ref="launching-page"/>
+    <file name="unete_hoy.png" crc="442554740" seo="true" ref="launching-page"/>
+    <file name="u3052-4.png" crc="4139058704" ref="launching-page"/>
+    <file name="clh_logo_home-crop-u7886.png" crc="4070005161" ref="launching-page"/>
+    <file name="u7881-4.png" crc="3906483017" ref="launching-page"/>
+    <file name="u7883-4.png" crc="4125235548" ref="launching-page"/>
+    <file name="u7884-6.png" crc="3816823444" ref="launching-page"/>
+    <file name="u7885-4.png" crc="3951740256" ref="launching-page"/>
+    <file name="u7888-6.png" crc="4098387045" ref="launching-page"/>
+    <file name="u7889-4.png" crc="280051990" ref="launching-page"/>
+    <file name="u3054.png" crc="388859576" ref="launching-page"/>
+    <file name="u3054-r.png" crc="388859576" ref="launching-page"/>
+    <file name="u3056.png" crc="3764332090" ref="launching-page"/>
+    <file name="u3056-r.png" crc="3764332090" ref="launching-page"/>
+    <file name="u7891.png" crc="520839538" ref="launching-page"/>
+    <file name="u7891-r.png" crc="520839538" ref="launching-page"/>
+    <file name="u7893.png" crc="3789129146" ref="launching-page"/>
+    <file name="u7893-r.png" crc="3789129146" ref="launching-page"/>
+    <file name="u7880-6.png" crc="193925486" ref="launching-page"/>
+    <file name="clh_logo_home-crop-u78862.png" crc="522259201" ref="launching-page"/>
+    <file name="u7881-42.png" crc="4242957625" ref="launching-page"/>
+    <file name="u7883-42.png" crc="3818601899" ref="launching-page"/>
+    <file name="por_que-crop-u7896.png" crc="96109053" ref="launching-page"/>
+    <file name="u7884-62.png" crc="47702089" ref="launching-page"/>
+    <file name="u7885-42.png" crc="99168361" ref="launching-page"/>
+    <file name="u7888-62.png" crc="519862080" ref="launching-page"/>
+    <file name="u7889-42.png" crc="93533086" ref="launching-page"/>
+    <file name="u78912.png" crc="3871577058" ref="launching-page"/>
+    <file name="u7891-r2.png" crc="3871577058" ref="launching-page"/>
+    <file name="u78932.png" crc="4219991570" ref="launching-page"/>
+    <file name="u7893-r2.png" crc="4219991570" ref="launching-page"/>
   </folder>
-  <file name="index.html" crc="385506801" seo="true" mt="1543685892722" redirect="true"/>
-  <file name="launching-page.html" crc="3956315862" seo="true" mt="1543685818847" redirect="true"/>
+  <file name="index.html" crc="385506801" seo="true" mt="1544076500547" redirect="true"/>
+  <file name="launching-page.html" crc="260828743" seo="true" mt="1544076426965" redirect="true"/>
   <file name="soy-licenciante.html" crc="155588169" seo="true" mt="1543647332898" redirect="true"/>
 </manifest>
