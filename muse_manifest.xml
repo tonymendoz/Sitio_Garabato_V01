@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1544077580870">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1544081882353">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="75701002" ref="index"/>
     <file name="nomq_index.css" crc="452813362" ref="index"/>
-    <file name="launching-page.css" crc="4080515414" ref="launching-page"/>
+    <file name="launching-page.css" crc="203716993" ref="launching-page"/>
     <file name="soy-licenciante.css" crc="270025225" ref="soy-licenciante"/>
     <file name="nomq_launching-page.css" crc="226371507" ref="launching-page"/>
   </folder>
@@ -65,13 +65,12 @@
     <file name="u3044-6.png" crc="11996288" ref="launching-page"/>
     <file name="unete_hoy.png" crc="442554740" seo="true" ref="launching-page"/>
     <file name="u3052-4.png" crc="4139058704" ref="launching-page"/>
-    <file name="clh_logo_home-crop-u7886.png" crc="4070005161" ref="launching-page"/>
     <file name="u7881-4.png" crc="329461551" ref="launching-page"/>
-    <file name="u7883-4.png" crc="50316323" ref="launching-page"/>
-    <file name="u7884-6.png" crc="4208181446" ref="launching-page"/>
-    <file name="u7885-4.png" crc="233633681" ref="launching-page"/>
-    <file name="u7888-6.png" crc="169119777" ref="launching-page"/>
-    <file name="u7889-4.png" crc="274045876" ref="launching-page"/>
+    <file name="u7883-4.png" crc="3951322185" ref="launching-page"/>
+    <file name="u7884-6.png" crc="188741499" ref="launching-page"/>
+    <file name="u7885-4.png" crc="4224264891" ref="launching-page"/>
+    <file name="u7888-6.png" crc="3866170060" ref="launching-page"/>
+    <file name="u7889-4.png" crc="219612961" ref="launching-page"/>
     <file name="u3054.png" crc="388859576" ref="launching-page"/>
     <file name="u3054-r.png" crc="388859576" ref="launching-page"/>
     <file name="u3056.png" crc="3764332090" ref="launching-page"/>
@@ -80,21 +79,22 @@
     <file name="u7891-r.png" crc="520839538" ref="launching-page"/>
     <file name="u7893.png" crc="3789129146" ref="launching-page"/>
     <file name="u7893-r.png" crc="3789129146" ref="launching-page"/>
-    <file name="u7880-6.png" crc="3800321565" ref="launching-page"/>
-    <file name="clh_logo_home-crop-u78862.png" crc="457653677" ref="launching-page"/>
-    <file name="u7881-42.png" crc="273787631" ref="launching-page"/>
-    <file name="u7883-42.png" crc="3951322185" ref="launching-page"/>
+    <file name="u7881-42.png" crc="88025113" ref="launching-page"/>
     <file name="por_que-crop-u7896.png" crc="96109053" ref="launching-page"/>
-    <file name="u7884-62.png" crc="188741499" ref="launching-page"/>
-    <file name="u7885-42.png" crc="4224264891" ref="launching-page"/>
-    <file name="u7888-62.png" crc="3866170060" ref="launching-page"/>
-    <file name="u7889-42.png" crc="219612961" ref="launching-page"/>
     <file name="u78912.png" crc="3871577058" ref="launching-page"/>
     <file name="u7891-r2.png" crc="3871577058" ref="launching-page"/>
     <file name="u78932.png" crc="4219991570" ref="launching-page"/>
     <file name="u7893-r2.png" crc="4219991570" ref="launching-page"/>
+    <file name="u7880-4.png" crc="4057310378" ref="launching-page"/>
+    <file name="clh_logo_gde-crop-u7886.jpg" crc="12231095" ref="launching-page"/>
+    <file name="u10309-4.png" crc="466480874" ref="launching-page"/>
+    <file name="u10310-6.png" crc="54436574" ref="launching-page"/>
+    <file name="u10311-4.png" crc="3908590725" ref="launching-page"/>
+    <file name="u10312-6.png" crc="88540735" ref="launching-page"/>
+    <file name="u10313-4.png" crc="100438273" ref="launching-page"/>
+    <file name="clh_logo_gde-crop-u78862.jpg" crc="4027827582" ref="launching-page"/>
   </folder>
-  <file name="index.html" crc="385506801" seo="true" mt="1544077571744" redirect="true"/>
-  <file name="launching-page.html" crc="4091464418" seo="true" mt="1544077428505" redirect="true"/>
+  <file name="index.html" crc="385506801" seo="true" mt="1544081873823" redirect="true"/>
+  <file name="launching-page.html" crc="3793043527" seo="true" mt="1544081802298" redirect="true"/>
   <file name="soy-licenciante.html" crc="155588169" seo="true" mt="1543647332898" redirect="true"/>
 </manifest>
