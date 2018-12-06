@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1544076509637">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.garabatomx.com" resolutions="1x" timestamp="1544076844499">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="75701002" ref="index"/>
     <file name="nomq_index.css" crc="452813362" ref="index"/>
-    <file name="launching-page.css" crc="448509528" ref="launching-page"/>
+    <file name="launching-page.css" crc="283158237" ref="launching-page"/>
     <file name="soy-licenciante.css" crc="270025225" ref="soy-licenciante"/>
     <file name="nomq_launching-page.css" crc="226371507" ref="launching-page"/>
   </folder>
@@ -94,7 +94,7 @@
     <file name="u78932.png" crc="4219991570" ref="launching-page"/>
     <file name="u7893-r2.png" crc="4219991570" ref="launching-page"/>
   </folder>
-  <file name="index.html" crc="385506801" seo="true" mt="1544076500547" redirect="true"/>
-  <file name="launching-page.html" crc="260828743" seo="true" mt="1544076426965" redirect="true"/>
+  <file name="index.html" crc="385506801" seo="true" mt="1544076833413" redirect="true"/>
+  <file name="launching-page.html" crc="419332358" seo="true" mt="1544076793523" redirect="true"/>
   <file name="soy-licenciante.html" crc="155588169" seo="true" mt="1543647332898" redirect="true"/>
 </manifest>
